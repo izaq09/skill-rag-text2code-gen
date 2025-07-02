@@ -67,8 +67,7 @@ def main():
                 # Display the user message in the chat
                 st.chat_message("user").markdown(prompt)
 
-                # Here you would typically call your model to get a response
-                # For demonstration, we'll just echo the prompt back
+                # Generate code
                 response = gen_code(
                     cell=selected_cell,
                     instances=",".join(selected_instances),
