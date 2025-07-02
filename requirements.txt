@@ -1,0 +1,10 @@
+google-genai
+langchain
+langchain_chroma
+langchain_community
+langchain_google_genai
+protobuf==3.20.*
+setuptools
+streamlit
+tqdm
+unstructured[md]
