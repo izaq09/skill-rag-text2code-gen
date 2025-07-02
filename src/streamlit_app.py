@@ -11,7 +11,7 @@ def main():
     """
     Main
     """
-    st.title("SKILL RAG-based Code Generator")
+    st.title("SKILL RAG-based Text to Code Generator")
 
     col1, col2 = st.columns([0.2, 0.8])
 
