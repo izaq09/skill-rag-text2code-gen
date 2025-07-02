@@ -1,0 +1,44 @@
+{
+    "comb_logic_cell_1": {
+        "instances": [
+            "xor_1",
+            "and_1",
+            "or_1",
+            "xor_2"
+        ],
+        "nets": [
+            "a",
+            "b",
+            "out",
+            "clk_sync"
+        ]
+    },
+    "comb_logic_cell_2": {
+        "instances": [
+            "xor_3",
+            "and_4",
+            "or_5"
+        ],
+        "nets": [
+            "net_a",
+            "net_b",
+            "net_out"
+        ]
+    },
+    "comb_logic_cell_3": {
+        "instances": [
+            "xor_6",
+            "and_7",
+            "or_8",
+            "xor_1",
+            "and_1",
+            "or_1",
+            "xor_2"
+        ],
+        "nets": [
+            "net_1",
+            "net_2",
+            "net_3"
+        ]
+    }
+}
